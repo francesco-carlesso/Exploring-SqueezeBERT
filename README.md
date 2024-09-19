@@ -1,1 +1,1 @@
-# Exploring-SqueezeBERT
+# Exploring SqueezeBERT
