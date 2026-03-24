@@ -58,7 +58,7 @@ We evaluated **SqueezeBERT** against **BERT-base** on three tasks relevant for m
 - Accuracy trade-off is minimal, especially for easier tasks (NER).  
 - Efficient design makes it suitable for **mobile and real-time applications**.  
 - MLM task is hardest; contextual understanding affects SqueezeBERT’s performance slightly more than BERT-base.  
-- Improvements in libraries over time reduce the previously reported 4× speedup.
+- Improvements in libraries over time likely reduced the originally reported 4× speedup.
 
 ---
 
