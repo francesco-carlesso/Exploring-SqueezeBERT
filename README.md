@@ -6,7 +6,7 @@ The project compares SqueezeBERT to **BERT-base** across multiple tasks, highlig
 
 ---
 
-## 📌 Project Outline
+## 📌 Outline
 
 ### 1. SqueezeBERT's Architecture
 - **Bottleneck Layers**: Reduce input dimensionality temporarily, extract features, then expand back to focus on the most important features.  
@@ -53,7 +53,7 @@ We evaluated **SqueezeBERT** against **BERT-base** on three tasks relevant for m
 
 ---
 
-## ⚡ Key Findings
+## ⚡Findings
 - SqueezeBERT is **1.5–1.7× faster** than BERT-base across tasks.  
 - Accuracy trade-off is minimal, especially for easier tasks (NER).  
 - Efficient design makes it suitable for **mobile and real-time applications**.  
