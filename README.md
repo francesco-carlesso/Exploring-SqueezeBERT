@@ -1,8 +1,8 @@
 # Exploring SqueezeBERT
 
-This project investigates **SqueezeBERT**, a compact and efficient NLP model designed for **mobile devices** and real-time applications. This architecture balances **accuracy** and **inference speed** by using techniques like **bottleneck layers**, **residual networks**, and **grouped convolutions**.
+This work investigates **SqueezeBERT**, a compact and efficient NLP model designed for **mobile devices** and real-time applications. This architecture balances **accuracy** and **inference speed** by using techniques like **bottleneck layers**, **residual networks**, and **grouped convolutions**.
 
-The work compares SqueezeBERT to **BERT-base** across multiple tasks, highlighting its performance on devices with limited computational resources.
+The project compares SqueezeBERT to **BERT-base** across multiple tasks, highlighting its performance on devices with limited computational resources.
 
 ---
 
